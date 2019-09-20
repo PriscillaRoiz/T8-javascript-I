@@ -266,3 +266,17 @@ else {
 // o cliente seja do perfil esportivo mostre os itens: camisetas,
 // short, bermudas, moleton. Caso o cliente não informe o perfil, 
 //mostre todas as opções
+
+<ul>
+	<li>"Terno"</li>
+	<li>"Blazer"</li>
+	<li>"Camisa"</li>
+	<li>"Calça"</li>
+</ul>
+
+<ul>
+	<li>"Camisetas"</li>
+	<li>"Short"</li>
+	<li>"Bermudas"</li>
+	<li>"Moleton"</li>
+</ul>
