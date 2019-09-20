@@ -260,6 +260,7 @@ else {
 	console.log("Você perdeu!")
 }
 
+
 // Construa a logica do menu de clientes de um site
 // caso o cliente seja perfil clássico, apresente uma ul
 // contendo nos li os itens terno, blazer, camisa,calça. Caso
